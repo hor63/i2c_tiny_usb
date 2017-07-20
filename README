@@ -1,0 +1,9 @@
+i2c-tiny-usb - (c) 2006 by Till Harbaum 
+---------------------------------------
+http://www.harbaum.org/till/i2c_tiny_usb
+
+This is a USB-I2C bridge based on a Atmel ATTiny45 controller.
+USB is implememted in software in the firmware.
+I2C is implemented in software and bitbanging the pins.
+
+For more information see firmware/readme.txt
